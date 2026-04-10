@@ -5,11 +5,11 @@ Hi, I'm Suraj Singh, a B.Tech graduate aspiring Data Science Engineer.
 
 ## 📌 Project Overview
 
-- The Housing.csv File on Kaggle
+- The Housing.csv File Link on Kaggle
 - The File Link : https://www.kaggle.com/datasets/surajsingh83/housing-csv
 
 - The churn.csv File Link on Kaggle
-- The File LInk : https://www.kaggle.com/datasets/surajsingh83/churn-csv
+- The File Link : https://www.kaggle.com/datasets/surajsingh83/churn-csv
   
 - This project focuses on building predictive models using Linear Regression and Logistic Regression to analyze data patterns and make predictions. The goal is to understand relationships between variables and evaluate model performance.
 
